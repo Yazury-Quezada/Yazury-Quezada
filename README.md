@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, Soy Yazury 👋
+
+I am programmer froend in html, css, javascript
 
 <!--
 **Yazury-Quezada/Yazury-Quezada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
